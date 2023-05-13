@@ -1,0 +1,48 @@
+div{
+    color: red;
+    font-size: 20px;
+}
+
+.cls{
+    color: blue;
+}
+
+#d1{
+    color: blanchedalmond;
+}
+
+[type]{
+    color: red;
+}
+
+[type=password]{
+    color: brown;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: blue;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: yellow;
+}
+
+.top li{
+    color: aqua;
+}
+
+span,p{
+ color: cadetblue;   
+}
